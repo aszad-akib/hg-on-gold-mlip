@@ -1,0 +1,12 @@
+model,facet,site,E_ads_eV,E_ads_kJmol,n_Au_neighbours
+chgnet,Au(111),ontop,-0.7392,-71.3,1
+chgnet,Au(111),bridge,-0.9112,-87.9,2
+chgnet,Au(111),fcc,-0.9479,-91.5,3
+chgnet,Au(111),hcp,-0.9439,-91.1,3
+chgnet,Au(100),ontop,-0.7716,-74.5,1
+chgnet,Au(100),bridge,-0.9177,-88.5,2
+chgnet,Au(100),hollow,-1.0881,-105.0,4
+chgnet,Au(110),ontop,-0.7188,-69.4,1
+chgnet,Au(110),shortbridge,-0.9066,-87.5,2
+chgnet,Au(110),longbridge,-1.1136,-107.5,2
+chgnet,Au(110),hollow,-1.1788,-113.7,5

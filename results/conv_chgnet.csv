@@ -1,0 +1,13 @@
+model,test,value,E_ads_eV,E_ads_kJmol
+chgnet,layers,3,-0.9431,-91.0
+chgnet,layers,4,-0.9479,-91.5
+chgnet,layers,5,-0.9437,-91.1
+chgnet,layers,6,-0.9428,-91.0
+chgnet,cell,2,-0.89,-85.9
+chgnet,cell,3,-0.9479,-91.5
+chgnet,cell,4,-0.9576,-92.4
+chgnet,vacuum,8.0,-0.9479,-91.5
+chgnet,vacuum,12.0,-0.9479,-91.5
+chgnet,vacuum,16.0,-0.9477,-91.4
+chgnet,lattice,own,-0.9479,-91.5
+chgnet,lattice,4.08,-0.8966,-86.5

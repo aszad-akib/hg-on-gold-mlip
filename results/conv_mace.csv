@@ -1,0 +1,13 @@
+model,test,value,E_ads_eV,E_ads_kJmol
+mace,layers,3,-0.7723,-74.5
+mace,layers,4,-0.7739,-74.7
+mace,layers,5,-0.775,-74.8
+mace,layers,6,-0.7738,-74.7
+mace,cell,2,-0.7626,-73.6
+mace,cell,3,-0.7739,-74.7
+mace,cell,4,-0.7786,-75.1
+mace,vacuum,8.0,-0.7739,-74.7
+mace,vacuum,12.0,-0.7739,-74.7
+mace,vacuum,16.0,-0.7739,-74.7
+mace,lattice,own,-0.7739,-74.7
+mace,lattice,4.08,-0.7249,-69.9
